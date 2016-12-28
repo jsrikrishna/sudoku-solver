@@ -1,0 +1,31 @@
+{
+  "name": "sudoku-solver-csp",
+  "version": "1.0.0",
+  "description": "sudoku-solver-csp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsrikrishna/sudoku-solver-csp.git"
+  },
+  "keywords": [
+    "csp",
+    "sudoku",
+    "aritifical-intelligence",
+    "arc-consistency",
+    "forward-checking"
+  ],
+  "author": "sri krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsrikrishna/sudoku-solver-csp/issues"
+  },
+  "homepage": "https://github.com/jsrikrishna/sudoku-solver-csp#readme",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "lodash": "^4.16.6",
+    "underscore": "^1.8.3"
+  }
+}
